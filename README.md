@@ -9,12 +9,12 @@ Here are some screenshots showcasing the application's interface and functionali
 **Customers Tab:**
 This view displays all registered customers, their contact details, and current balance.
 
-https://github.com/CoskunKaan1/kcm-accounting-software/main/1.jpg?raw=true
+https://github.com/CoskunKaan1/kcm-accounting-software/blob/main/1.png?raw=true
 
 **Transactions Tab:**
 This tab allows you to view, filter, and export all financial transactions, along with customer-specific statistics.
 
-http://googleusercontent.com/image_generation_content/1
+https://github.com/CoskunKaan1/kcm-accounting-software/blob/main/2.png?raw=true
 
 ## ✨ Features
 
